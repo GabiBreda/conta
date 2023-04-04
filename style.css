@@ -1,0 +1,34 @@
+body{
+    background: #a3a397;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+header{
+    color: #fff;
+    text-align: center;
+}
+
+section{
+    background: #ffffff;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.363);
+    margin: auto;
+}
+
+footer{
+    color: #fff;
+    text-align: center;
+    font-style: italic;
+}
+
+.fim{
+    margin-left: 15px;
+}
+.inicio{
+    margin-left: 3px;
+}
+.passo{
+    margin-left: 1px;
+}
